@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https: //fonts.googleapis.com/css?family=Roboto);
 
 body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
 
@@ -8,11 +9,20 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweathe
 blockquote p { font-size: 16px; line-height: 1.6em; }
 
 /* Masthead */
-.header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; }
+/* .header, .footer, .header h3 { font-family: 'Montserrat', Helvetica, sans-serif; text-transform: uppercase; font-weight: normal; } */
+
+/* Masthead */
+.header,
+.footer,
+.header h3 {
+	font-family: 'Roboto', Helvetica, sans-serif;
+	text-transform: uppercase;
+	font-weight: normal;
+}
 
 /* Navigation */
 h3.text-muted a {text-decoration: none; color: #999999; }
-h3.text-muted a:hover { text-decoration: none; color: hsl(188, 98%, 38%); }
+h3.text-muted a:hover { text-decoration: none; color: #02a5be; }
 
 img.avatar { margin-bottom: 30px; }
 		
