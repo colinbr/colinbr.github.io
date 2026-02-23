@@ -1,9 +1,9 @@
 cv:
   name: Colin J. Brown
-  label: Postdoctoral Reseach Fellow
+  label: Postdoctoral Research Fellow
   email: colin.brown@ubc.ca
   location: University of British Columbia Linguistics
-  image: ""
+  # image: ""
   # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   # social_networks:
