@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Me and [Henry Davis](https://linguistics.ubc.ca/profile/henry-davis/) are presenting on *wh-*initiality and focus in predicate initial languages at [SULA-TripleA 2026](https://blogs.ubc.ca/sulatriplea/) in May in Vancouver. 
+Me and [Henry Davis](https://linguistics.ubc.ca/profile/henry-davis/) are presenting on *wh-*initiality and focus in predicate initial languages at [SULA-TripleA 2026](https://blogs.ubc.ca/sulatriplea/) in May in Vancouver.

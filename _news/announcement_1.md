@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Me and [Starr Sandoval](https://linguistics.ubc.ca/profile/starr-sandoval/) had a [poster](assets/pdf/brown_sandoval_nels_poster.pdf) on *wh*-infinitives at [NELS 56](https://wp.nyu.edu/artsampscience-nels56/) in NYC.
+Me and [Starr Sandoval](https://linguistics.ubc.ca/profile/starr-sandoval/) had a [poster](assets/pdf/brown_sandoval_nels_poster.pdf) on _wh_-infinitives at [NELS 56](https://wp.nyu.edu/artsampscience-nels56/) in NYC.

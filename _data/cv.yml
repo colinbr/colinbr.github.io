@@ -69,32 +69,32 @@ cv:
     #       - Relativity
     #       - Description 2.
 
-      # - company: California Institute of Technology
-      #   position: Visiting Professor
-      #   location: Pasadena, California, US
-      #   start_date: 1933
-      #   end_date: 1933
-      #   highlights:
-      #     - Description 1.
-      #     - Description 2.
+    # - company: California Institute of Technology
+    #   position: Visiting Professor
+    #   location: Pasadena, California, US
+    #   start_date: 1933
+    #   end_date: 1933
+    #   highlights:
+    #     - Description 1.
+    #     - Description 2.
 
-      # - company: Kaiser Wilhelm Institute for Physics
-      #   position: Director
-      #   location: Berlin, Germany
-      #   start_date: 1917
-      #   end_date: 1933
+    # - company: Kaiser Wilhelm Institute for Physics
+    #   position: Director
+    #   location: Berlin, Germany
+    #   start_date: 1917
+    #   end_date: 1933
 
-      # - company: Karl-Ferdinand University
-      #   position: Professor of Theoretical Physics
-      #   location: Prague, Czechoslovakia
-      #   start_date: 1911
-      #   end_date: 1917
+    # - company: Karl-Ferdinand University
+    #   position: Professor of Theoretical Physics
+    #   location: Prague, Czechoslovakia
+    #   start_date: 1911
+    #   end_date: 1917
 
-      # - company: University of Zurich
-      #   position: Associate Professor of Theoretical Physics
-      #   location: Zurich, Switzerland
-      #   start_date: 1909
-      #   end_date: 1911
+    # - company: University of Zurich
+    #   position: Associate Professor of Theoretical Physics
+    #   location: Zurich, Switzerland
+    #   start_date: 1909
+    #   end_date: 1911
 
     # Volunteer:
     #   - company: People's Climate March
