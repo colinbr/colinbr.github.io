@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-giving-a-talk-on-pied-piping-with-inversion-in-sm-algyax-at-wccfl-44-in-mexico-city-in-may",
           title: 'I will be giving a talk on pied piping with inversion in Sm’algyax...',
           description: "",
+          section: "News",},{id: "news-my-paper-bipartite-question-formation-in-sm-algyax-has-been-accepted-at-glossa-link-forthcoming",
+          title: 'My paper Bipartite question formation in Sm’algyax has been accepted at Glossa (link...',
+          description: "",
           section: "News",},{
         id: 'social-cv',
         title: 'CV',
