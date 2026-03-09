@@ -1,0 +1,33 @@
+# Co-author links for the publications page.
+# The key is the co-author's last name (lowercase). For each entry, list
+# all first name variants they may appear under in your .bib file, plus
+# a URL to link to (e.g. personal page, institutional page, or Wikipedia).
+#
+# Example:
+# "smith":
+#   - firstname: ["Jane", "J.", "J. A."]
+#     url: https://example.com/janesmith
+
+"davis":
+  - firstname: ["Henry", "H."]
+    url: # add a URL for Henry Davis if desired
+
+"forbes":
+  - firstname: ["Clarissa", "C."]
+    url: # add a URL for Clarissa Forbes if desired
+
+"schwan":
+  - firstname: ["Michael David", "Michael", "M. D.", "M."]
+    url: # add a URL for Michael David Schwan if desired
+
+"torrence":
+  - firstname: ["Harold", "H."]
+    url: # add a URL for Harold Torrence if desired
+
+"sandoval":
+  - firstname: ["Starr", "S."]
+    url: # add a URL for Starr Sandoval if desired
+
+"elkins":
+  - firstname: ["Noah", "N."]
+    url: # add a URL for Noah Elkins if desired

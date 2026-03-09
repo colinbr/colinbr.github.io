@@ -3,16 +3,6 @@ cv:
   label: Postdoctoral Research Fellow
   email: colin.brown@ubc.ca
   location: University of British Columbia Linguistics
-  # image: ""
-  # summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
-  #   - network: GitHub
-  #     username: example
-  #   - network: LinkedIn
-  #     username: example
 
   address:
     street: 2613 West Mall
@@ -25,177 +15,328 @@ cv:
     Education:
       - institution: University of California, Los Angeles
         location: Los Angeles, CA
-        # url: https://linguistics.ucla.edu/
+        url: https://linguistics.ucla.edu/
         area: Linguistics
         studyType: PhD
         start_date: 2018
         end_date: 2024
-        score: ""
         courses: "Dissertation: The form and function of interrogatives in Sm'algyax"
         highlights:
-          - "Dissertation committee: Yael Sharvit, Harold Torrence, Ethan Poole, Lisa Matthewson"
-        #   - Description 2.
+          - "Committee: Yael Sharvit, Harold Torrence (co-chairs), Ethan Poole, Lisa Matthewson (UBC)"
 
       - institution: McGill University
         location: Montreal, QC
-        # url: https://www.mcgill.ca/linguistics/
+        url: https://www.mcgill.ca/linguistics/
         area: Linguistics
         studyType: MA
         start_date: 2014
         end_date: 2016
         courses: "Thesis: Extraction restrictions in Gitksan"
         highlights:
-          - "Thesis committee: Jessica Coon, Lisa Travis"
+          - "Committee: Jessica Coon, Lisa Travis"
 
       - institution: University of British Columbia
         location: Vancouver, BC
-        # url: https://linguistics.ubc.ca/
+        url: https://linguistics.ubc.ca/
         area: Linguistics
         studyType: BA
         start_date: 2010
         end_date: 2013
-        # highlights:
-        #   - Description 1.
-        #   - Description 2.
+        highlights:
+          - "Capstone projects: Semantics of Gitksan clefts; Sluicing in Wolof"
 
-    # Experience:
-    #   - company: Institute for Advanced Study, Princeton University
-    #     position: Professor of Theoretical Physics
-    #     location: Princeton University, NJ
-    #     start_date: 1933
-    #     end_date: 1955
-    #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-    #     highlights:
-    #       - Relativity
-    #       - Description 2.
+    Experience:
+      - company: University of British Columbia, Department of Linguistics
+        position: SSHRC Postdoctoral Fellow
+        location: Vancouver, BC
+        url: https://linguistics.ubc.ca/
+        start_date: 2024
+        end_date: present
+        highlights:
+          - "Supervisor: Henry Davis"
 
-    # - company: California Institute of Technology
-    #   position: Visiting Professor
-    #   location: Pasadena, California, US
-    #   start_date: 1933
-    #   end_date: 1933
-    #   highlights:
-    #     - Description 1.
-    #     - Description 2.
+    Teaching:
+      - company: UCLA Linguistics
+        position: Instructor of Record
+        location: Los Angeles, CA
+        start_date: 2018
+        end_date: 2023
+        highlights:
+          - "2023 — LING 120C: Semantics I (Summer)"
+          - "2022 — LING 120B: Syntax I (Summer)"
+          - "2021 — LING 120C: Semantics I (Summer)"
+          - "2020 — LING 160: Field Methods, co-taught with Blake Lehman (Summer)"
 
-    # - company: Kaiser Wilhelm Institute for Physics
-    #   position: Director
-    #   location: Berlin, Germany
-    #   start_date: 1917
-    #   end_date: 1933
+      - company: Wilp Wilxo'oskwhl Nisga'a Institute / UNBC
+        position: Instructor of Record
+        location: "Gitwinksihlkw, BC"
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - "2018 — FNST 320-3: The Structure of a First Nations Language (Nisga'a; Tsimshianic) (Summer)"
+          - "2018 — FNST 220-3: Introduction to Linguistics (Summer)"
+          - "2016 — FNST 220-3: Introduction to Linguistics (Winter)"
 
-    # - company: Karl-Ferdinand University
-    #   position: Professor of Theoretical Physics
-    #   location: Prague, Czechoslovakia
-    #   start_date: 1911
-    #   end_date: 1917
+      - company: Listuguj/McGill B.Ed Program
+        position: Instructor of Record
+        location: Listuguj, QC
+        start_date: 2018
+        end_date: 2018
+        highlights:
+          - "2018 — EDEE 223: Language Arts (Summer)"
 
-    # - company: University of Zurich
-    #   position: Associate Professor of Theoretical Physics
-    #   location: Zurich, Switzerland
-    #   start_date: 1909
-    #   end_date: 1911
+      - company: UCLA & McGill Linguistics
+        position: Teaching Assistant
+        location: Los Angeles, CA / Montreal, QC
+        start_date: 2016
+        end_date: 2024
+        highlights:
+          - "2024 — LING 1: Introduction to Study of Language, UCLA (Winter & Spring)"
+          - "2022 — LING 120C: Semantics I, UCLA (Winter)"
+          - "2021 — LING 120B: Syntax I, UCLA (Winter)"
+          - "2020 — LING 127C: Linguistic Typology and Universals, UCLA (Winter & Fall)"
+          - "2019 — LING 20: Introduction to Linguistic Theory, UCLA (Summer & Fall)"
+          - "2016 — LING 200: Introduction to Linguistics, McGill (Spring & Fall)"
 
-    # Volunteer:
-    #   - company: People's Climate March
-    #     position: Lead Organizer
-    #     location: Zurich, Switzerland
-    #     start_date: 2014-04-01
-    #     end_date: 2015-07-01
-    #     summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-    #     highlights:
-    #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-    #       - "Men of the year 2014 by Time magazine"
+    Publications:
+      - title: "On the Clausal Syntax of Dschang Predicate Focus Doubling"
+        authors:
+          - Colin Brown
+          - Harold Torrence
+        publisher: "Language Science Press"
+        releaseDate: 2025-08-01
+        url: https://doi.org/10.5281/zenodo.16875466
+        summary: "Cross-disciplinary approaches to Information Structure in Niger-Congo languages, pp. 215–243."
 
-    # Awards:
-    #   - title: Nobel Prize in Physics
-    #     authors:
-    #       - "Royal Swedish Academy of Sciences"
-    #     date: 1921-11-01
-    #     awarder: Royal Swedish Academy of Sciences
-    #     url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-    #     summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: "Clause-Typing and Clitic Linearization in Gitksan"
+        authors:
+          - Colin Brown
+        publisher: "UBC Working Papers in Linguistics"
+        releaseDate: 2025-01-01
+        url: https://lingpapers.sites.olt.ubc.ca/files/2025/07/BrownICSNL60.pdf
+        summary: "Proceedings of the 60th International Conference on Salish and Neighbouring Languages."
 
-    #   - title: Max Planck Medal
-    #     authors:
-    #       - "German Physical Society"
-    #     date: 2029
-    #     awarder: German Physical Society
-    #     summary: Awarded for outstanding scientific achievement
+      - title: "Conjectural Questions in Sm'algyax"
+        authors:
+          - Colin Brown
+        publisher: "Folia Linguistica"
+        releaseDate: 2025-04-01
+        url: https://doi.org/10.1515/flin-2023-2051
+        summary: "Vol. 59, No. 1, pp. 7–28. [Peer reviewed]"
 
-    # Publications:
-    #   - title: Zur Elektrodynamik bewegter Körper
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-06-30
-    #     url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-    #     summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: "A Second-Last Position Clitic in Sm'algyax (Coast Tsimshian)"
+        authors:
+          - Colin Brown
+          - Henry Davis
+        publisher: "Proceedings of NELS 54. University of Massachusetts GLSA"
+        releaseDate: 2024-01-01
+        summary: "Proceedings from the 54th Annual Meeting of the North East Linguistic Society."
 
-    #   - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1905-03-18
-    #     url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-    #     summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: "A Second-Last Position Clitic in Sm'algyax: The Puzzle"
+        authors:
+          - Colin Brown
+          - Henry Davis
+        publisher: "UBC Occasional Papers in Linguistics"
+        releaseDate: 2024-01-01
+        url: https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Brown_Davis.pdf
+        summary: "Papers in Honour of Hotze Rullmann, Vol. 9."
 
-    #   - title: Die Grundlage der allgemeinen Relativitätstheorie
-    #     authors:
-    #       - Albert Einstein
-    #     publisher: Annalen der Physik
-    #     releaseDate: 1916-03-20
-    #     url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-    #     summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: "A Second-Last Position Clitic in Sm'algyax: A Solution"
+        authors:
+          - Henry Davis
+          - Colin Brown
+        publisher: "UBC Occasional Papers in Linguistics"
+        releaseDate: 2024-01-01
+        url: https://lingpapers.sites.olt.ubc.ca/files/2024/11/UBCOPL_Hotzes_Volume_Davis_Brown.pdf
+        summary: "Papers in Honour of Hotze Rullmann, Vol. 9."
+
+      - title: "Questions and Their Relatives in Sm'algyax"
+        authors:
+          - Colin Brown
+        publisher: "International Journal of American Linguistics"
+        releaseDate: 2024-07-01
+        url: https://doi.org/10.1086/730303
+        summary: "Vol. 90, No. 3. [Peer reviewed]"
+
+      - title: "The Form and Function of Interrogatives in Sm'algyax"
+        authors:
+          - Colin Brown
+        publisher: "University of California, Los Angeles"
+        releaseDate: 2024-01-01
+        url: https://escholarship.org/uc/item/40z781d3
+        summary: "Doctoral dissertation."
+
+      - title: "Irrealis-Marked Interrogatives as Negative Rhetorical Questions"
+        authors:
+          - Colin Brown
+        publisher: "Open Linguistics"
+        releaseDate: 2023-07-01
+        url: https://doi.org/10.1515/opli-2022-0239
+        summary: "Vol. 9, No. 1. [Peer reviewed]"
+
+      - title: "Clause-Type, Transitivity, and the Transitive Vowel in Tsimshianic"
+        authors:
+          - Colin Brown
+          - Clarissa Forbes
+          - Michael Schwan
+        publisher: "UBC Working Papers in Linguistics"
+        releaseDate: 2020-01-01
+        url: https://lingpapers.sites.olt.ubc.ca/files/2020/07/02_ICSNL55_Brown_Forbes_Schwan_final.pdf
+        summary: "Papers for the 55th International Conference on Salish and Neighbouring Languages."
+
+      - title: "Syntactic Ergativity in Gitksan"
+        authors:
+          - Colin Brown
+        publisher: "UBC Working Papers in Linguistics"
+        releaseDate: 2017-01-01
+        url: https://lingpapers.sites.olt.ubc.ca/files/2018/01/WSCLA21-06-Brown.pdf
+        summary: "Proceedings from the 21st annual Workshop on the Constituency of Languages of the Americas."
+
+      - title: "Extraction Restrictions in Gitksan"
+        authors:
+          - Colin Brown
+        publisher: "McGill University"
+        releaseDate: 2016-01-01
+        summary: "Master's thesis."
+
+    Awards:
+      - title: Postdoctoral Fellowship
+        awarder: Social Sciences and Humanities Research Council (SSHRC)
+        date: 2024-01-01
+        summary: "$140,000 CAD. 2024–2026."
+
+      - title: Jacobs Research Funds
+        awarder: Whatcom Museum / University of Washington Libraries
+        date: 2024-01-01
+        summary: "$3,000 USD."
+
+      - title: Ladefoged Scholarship
+        awarder: UCLA
+        date: 2023-01-01
+        summary: "$1,500 USD."
+
+      - title: Dissertation Year Fellowship
+        awarder: UCLA
+        date: 2022-01-01
+        summary: "$37,000 USD. 2022–2023."
+
+      - title: Harry and Yvonne Lenart Graduate Travel Fellowship
+        awarder: UCLA
+        date: 2022-01-01
+        summary: "$8,000 USD. 2022–2023."
+
+      - title: Ladefoged Scholarship
+        awarder: UCLA
+        date: 2022-01-01
+        summary: "$1,500 USD."
+
+      - title: Canadian Studies Award
+        awarder: UCLA
+        date: 2019-01-01
+        summary: "$1,000 USD."
+
+      - title: Doctoral Fellowship
+        awarder: Social Sciences and Humanities Research Council (SSHRC)
+        date: 2018-01-01
+        summary: "$80,000 CAD. 2018–2022."
+
+      - title: Andrew W. Mellon Fellowship
+        awarder: UCLA
+        date: 2018-01-01
+        summary: "$34,000 USD. 2018–2022."
+
+      - title: Graduate Dean Scholar's Award
+        awarder: UCLA
+        date: 2018-01-01
+        summary: "$14,500 USD. 2018–2019."
+
+      - title: "Joseph-Armand Bombardier Canada Graduate Scholarships – Master's"
+        awarder: Social Sciences and Humanities Research Council (SSHRC)
+        date: 2015-01-01
+        summary: "$17,500 CAD."
+
+      - title: Grad Excellence Award in Linguistics
+        awarder: McGill University
+        date: 2014-01-01
+        summary: "$7,000 CAD."
+
+      - title: Leon Fus Memorial Prize
+        awarder: University of British Columbia
+        date: 2010-01-01
+        summary: "$700 CAD."
+
+    Volunteer:
+      - company: SSHRC Canada Graduate Research Scholarship–Doctoral Program
+        position: Committee Member
+        location: Canada
+        start_date: 2026
+        end_date: 2026
+
+      - company: Fieldwork Job Search Committee, UCLA Linguistics Department
+        position: Committee Member
+        location: Los Angeles, CA
+        start_date: 2022
+        end_date: 2022
+
+      - company: UCLA Graduate Linguistics Council
+        position: President
+        location: Los Angeles, CA
+        start_date: 2020
+        end_date: 2021
 
     # Skills:
-    #   - name: Physics
-    #     level: Master
-    #     icon: fa-solid fa-hashtag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    #   - name: Linguistic Fieldwork
+    #     level: Expert
+    #     icon: fa-solid fa-language
+    #     keywords: "Sm'algyax, Gitksan, Mam, Dschang, language documentation, elicitation"
 
-    # Languages:
-    #   - name: German
-    #     summary: "Native speaker"
+    #   - name: Syntax & Semantics
+    #     level: Expert
+    #     icon: fa-solid fa-diagram-project
+    #     keywords: "A'-movement, morphosyntax, non-canonical questions, clitic linearization, evidentiality"
 
-    #   - name: English
-    #     summary: "Fluent"
+    #   - name: Peer Review
+    #     icon: fa-solid fa-pen-to-square
+    #     keywords: "Oxford University Press, Canadian Journal of Linguistics, Language Science Press, Annual Conference on African Linguistics"
+
+    Languages:
+      - name: English
+        summary: "Native speaker"
+
+      - name: French
+        summary: "Intermediate"
+
+      - name: Spanish
+        summary: "Intermediate"
+
+      - name: Polish
+        summary: "Pre-intermediate"
+
+      - name: "Sm'algyax"
+        summary: "Research"
+
+      - name: Gitksan
+        summary: "Research"
+
+      - name: Mam
+        summary: "Research"
+
+      - name: Dschang
+        summary: "Research"
 
     # Interests:
-    #   - name: Physics
-    #     icon: fa-solid fa-tag
-    #     keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+    #   - name: Tsimshianic Languages
+    #     icon: fa-solid fa-map-pin
+    #     keywords: "Sm'algyax, Gitksan, British Columbia, Alaska"
 
-    # Certificates:
-    #   - name: Machine Learning
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-location-dot
+    #   - name: Mayan Languages
+    #     icon: fa-solid fa-map-pin
+    #     keywords: "Mam, Guatemala, Mexico"
 
-    #   - name: Quantum Computing
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-tag
+    #   - name: Grassfields Bantu
+    #     icon: fa-solid fa-map-pin
+    #     keywords: "Dschang, Cameroon"
 
-    #   - name: Quantum Information
-    #     date: 2018-01-01
-    #     issuer: Stanford University
-    #     icon: fa-solid fa-envelope
-
-    # Projects:
-    #   - name: Quantum Computing
-    #     summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-    #     highlights:
-    #       - Quantum Teleportation
-    #       - Quantum Cryptography
-    #     start_date: 2018-01-01
-    #     end_date: 2018-01-01
-
-    # References:
-    #   - name: Professor John Doe
-    #     icon: fa-solid fa-laptop
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-    #   - name: Professor Jane Smith
-    #     icon: fa-solid fa-thumbtack
-    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Theoretical Linguistics
+    #     icon: fa-solid fa-graduation-cap
+    #     keywords: "morphosyntax of A'-movement, semantics of non-canonical questions, linearization of sentential clitics, evidentiality"

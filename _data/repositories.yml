@@ -1,0 +1,15 @@
+# Repositories displayed on the /repositories page.
+# Add your GitHub username below to show your pinned repos,
+# and list any specific repos (yours or others') to feature.
+#
+# github_users controls the "GitHub Stats" cards at the top of the page.
+# github_repos lists specific repos to display as cards.
+
+github_users:
+  - colinbr # replace with your actual GitHub username if different
+
+repo_description_lines_max: 2
+
+github_repos:
+  # Add repos you want to feature, e.g.:
+  # - colinbr/my-repo
