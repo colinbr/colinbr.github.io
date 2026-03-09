@@ -3,26 +3,26 @@
 # `url` links the badge to the journal/conference website.
 # `color` sets the badge color (hex or CSS color name); optional.
 
-"IJAL":
-  url: https://www.journals.uchicago.edu/toc/ijal/current
-  color: "#8B0000"
+# "IJAL":
+#   url: https://www.journals.uchicago.edu/toc/ijal/current
+#   color: "#8B0000"
 
-"FL":
-  url: https://www.degruyter.com/journal/key/flin/html
-  color: "#4B0082"
+# "FL":
+#   url: https://www.degruyter.com/journal/key/flin/html
+#   color: "#4B0082"
 
-"OL":
-  url: https://www.degruyterbrill.com/journal/key/opli/html
-  color: "#005f73"
+# "OL":
+#   url: https://www.degruyterbrill.com/journal/key/opli/html
+#   color: "#005f73"
 
-"NELS":
-  url: https://nels.mit.edu/
-  color: "#2d6a4f"
+# "NELS":
+#   url: https://nels.mit.edu/
+#   color: "#2d6a4f"
 
-"WSCLA":
-  url: https://mcling.blogs.mcgill.ca/wscla-2023/
-  color: "#e07b39"
+# "WSCLA":
+#   url: https://mcling.blogs.mcgill.ca/wscla-2023/
+#   color: "#e07b39"
 
-"ICSNL":
-  url: https://lingpapers.sites.olt.ubc.ca/
-  color: "#457b9d"
+# "ICSNL":
+#   url: https://lingpapers.sites.olt.ubc.ca/
+#   color: "#457b9d"

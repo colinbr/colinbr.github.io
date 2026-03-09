@@ -93,13 +93,9 @@ jobs:
 
       - name: Commit and push if changed
         run: |
-          if [ -f _data/citations.yml ]; then
-            git add _data/citations.yml
-            git diff --staged --quiet || (
-              echo "📤 Committing and pushing changes..."
-              git commit -m "Update Google Scholar citations"
-              git push
-            )
-          else
-            echo "⚠️ _data/citations.yml not found, skipping commit."
-          fi
+          git add _data/citations.yml
+          git diff --staged --quiet || (
+            echo "📤 Committing and pushing changes..."
+            git commit -m "Update Google Scholar citations"
+            git push
+          )
