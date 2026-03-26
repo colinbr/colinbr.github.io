@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper Bipartite question formation in Sm'algyax has been accepted at Glossa (link forthcoming)!
+My paper [Bipartite question formation in Sm'algyax](https://doi.org/10.16995/glossa.20160) has been published in Glossa!
