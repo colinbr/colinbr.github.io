@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "news-me-and-starr-sandoval-had-a-poster-on-wh-infinitives-at-nels-56-in-nyc",
           title: 'Me and Starr Sandoval had a poster on wh-infinitives at NELS 56 in...',
           description: "",
