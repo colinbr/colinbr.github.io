@@ -6,7 +6,7 @@ layout: default
     <h1 class="post-title">
       {{ page.title }}
       {% if page.cv_pdf %}
-        
+        <a
           {% if page.cv_pdf contains '://' %}
             href="{{ page.cv_pdf }}"
           {% else %}
@@ -20,10 +20,12 @@ layout: default
         </a>
       {% endif %}
     </h1>
+
     {% if page.description %}
       <p class="post-description">{{ page.description }}</p>
     {% endif %}
   </header>
+
   <article>
     <div class="cv">
       {% if page.cv_pdf %}
@@ -34,12 +36,20 @@ layout: default
               style="width: 100%; height: 100%; border: none;"
               title="{{ page.title }}"
             >
-              <p>Your browser doesn't support embedded PDFs. <a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}">Download the PDF</a> instead.</p>
+              <p>
+                Your browser doesn't support embedded PDFs.
+                <a href="{% if page.cv_pdf contains '://' %}{{ page.cv_pdf }}{% else %}{{ page.cv_pdf | relative_url }}{% endif %}">
+                  Download the PDF
+                </a>
+                instead.
+              </p>
             </iframe>
           </div>
         </div>
       {% else %}
-        <p>No CV PDF configured. Set <code>cv_pdf</code> in the page's frontmatter.</p>
+        <p>
+          No CV PDF configured. Set <code>cv_pdf</code> in the page's frontmatter.
+        </p>
       {% endif %}
     </div>
   </article>
